@@ -1,3 +1,15 @@
-AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.24.0.3. Set the 'ServerName' directive globally to suppress this message
-[Tue Feb 27 18:31:49.121905 2024] [mpm_prefork:notice] [pid 8] AH00163: Apache/2.4.52 (Ubuntu) configured -- resuming normal operations
-[Tue Feb 27 18:31:49.124272 2024] [core:notice] [pid 8] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Mon Sep 25 15:16:09.871556 2023] [alias:warn] [pid 8] AH00671: The Alias directive in /etc/apache2/conf-available/javascript-common.conf at line 1 will probably never match because it overlaps an earlier Alias.
+[Mon Sep 25 15:16:10.162266 2023] [mpm_prefork:notice] [pid 8] AH00163: Apache/2.4.52 (Ubuntu) configured -- resuming normal operations
+[Mon Sep 25 15:16:10.163911 2023] [core:notice] [pid 8] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Wed Sep 27 12:03:13.013184 2023] [alias:warn] [pid 9] AH00671: The Alias directive in /etc/apache2/conf-available/javascript-common.conf at line 1 will probably never match because it overlaps an earlier Alias.
+[Wed Sep 27 12:03:13.450987 2023] [mpm_prefork:notice] [pid 9] AH00163: Apache/2.4.52 (Ubuntu) configured -- resuming normal operations
+[Wed Sep 27 12:03:13.454267 2023] [core:notice] [pid 9] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Wed Sep 27 12:04:56.581880 2023] [alias:warn] [pid 8] AH00671: The Alias directive in /etc/apache2/conf-available/javascript-common.conf at line 1 will probably never match because it overlaps an earlier Alias.
+[Wed Sep 27 12:04:56.653280 2023] [mpm_prefork:notice] [pid 8] AH00163: Apache/2.4.52 (Ubuntu) configured -- resuming normal operations
+[Wed Sep 27 12:04:56.653919 2023] [core:notice] [pid 8] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Wed Sep 27 12:09:06.061417 2023] [alias:warn] [pid 8] AH00671: The Alias directive in /etc/apache2/conf-available/javascript-common.conf at line 1 will probably never match because it overlaps an earlier Alias.
+[Wed Sep 27 12:09:06.114508 2023] [mpm_prefork:notice] [pid 8] AH00163: Apache/2.4.52 (Ubuntu) configured -- resuming normal operations
+[Wed Sep 27 12:09:06.115110 2023] [core:notice] [pid 8] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Sat Jun 15 18:36:25.379035 2024] [alias:warn] [pid 8] AH00671: The Alias directive in /etc/apache2/conf-available/javascript-common.conf at line 1 will probably never match because it overlaps an earlier Alias.
+[Sat Jun 15 18:36:25.558150 2024] [mpm_prefork:notice] [pid 8] AH00163: Apache/2.4.52 (Ubuntu) configured -- resuming normal operations
+[Sat Jun 15 18:36:25.560543 2024] [core:notice] [pid 8] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
